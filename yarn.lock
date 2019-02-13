@@ -723,10 +723,10 @@
   resolved "https://registry.yarnpkg.com/@types/socket.io-client/-/socket.io-client-1.4.32.tgz#988a65a0386c274b1c22a55377fab6a30789ac14"
   integrity sha512-Vs55Kq8F+OWvy1RLA31rT+cAyemzgm0EWNeax6BWF8H7QiiOYMJIdcwSDdm5LVgfEkoepsWkS+40+WNb7BUMbg==
 
-"@types/three@^0.93.15":
-  version "0.93.15"
-  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.93.15.tgz#8fbb4ee8c0648372a305469d16e37d0a939f91c3"
-  integrity sha512-AE9kgUDqMrInTfMYzZ8NqgBMzUgHvv+JwUQxCmlWZOfs+TCJDn7CVcvcOyftiUO3MAH1bddwaK0ZvZ/9M1rO5A==
+"@types/three@^0.93.20":
+  version "0.93.20"
+  resolved "https://registry.yarnpkg.com/@types/three/-/three-0.93.20.tgz#f298e339d52078ea4b2bf96ae814ee476a3a564e"
+  integrity sha512-k+YNaO8Ux6b2UQBIwM/fa4fdnBJpsMSxrHVGHXFsoflFUkvy/TPnvMXj396l1VjzzjqFX/vJFEsrYwpUhztD2g==
 
 "@types/tmp@^0.0.33":
   version "0.0.33"
